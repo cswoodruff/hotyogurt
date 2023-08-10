@@ -1,0 +1,16 @@
+mode: stream
+volume: 80
+mute: false
+
+radio: {
+station = 1
+presets=KCRW,KCRW-E24,K-U-S-C,KPCC,KCSN
+autoplay = true
+
+[spotify]
+volume = 100
+api_port = 24879
+autoplay = false
+
+[airplay]
+volume = 100
